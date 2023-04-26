@@ -91,7 +91,7 @@ int main(){
   }
 fin.close();
 
-cout << "\nThis is a Contact Book Manager that will manage the contact books of up to 5 different people." << endl;
+cout << "\nThis is a Contact Book Manager that will manage the contact books of up to 25 different people." << endl;
   while(true){
     string userInput;
     cout << endl;

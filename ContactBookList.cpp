@@ -10,7 +10,7 @@ using std::string;
 using std::endl;
 
 
-ContactBookList::ContactBookList() : maxNumContactBooks(5), numContactBooks(0), contactBooks(new ContactBook*[5]){
+ContactBookList::ContactBookList() : maxNumContactBooks(25), numContactBooks(0), contactBooks(new ContactBook*[25]){
 
 }
 
