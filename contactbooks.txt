@@ -1,0 +1,16 @@
+Connor|Brown
+Biggie|Smalls|2127773333|biggie@aol.com|226|Saint James Place|103|Brooklyn|NY|11238
+Tupac|Shakur|4100679988|tupac@hotmail.com|3955|Greenmount Avenue|3|Baltimore|MD|21218
+Nipsey|Hussle|2133336655|nipseyh@gmail.com|399|Builder Ave|399|Crenshaw|CA|90008
+endofbook|
+
+Roger|Goodell
+Tom|Brady|8137771212|tb12@gmail.com|7|Champion Ave|7|Tampa|FL|33647
+Patrick|Mahomes|9131111515|patrickmahomes@gmail.com|1|Gunslinger Street|1|Kansas City|MO|64030
+endofbook|
+
+Man|Person
+Guy|Dude|9147112233|guydude@yahoo.com|71|street street|5|Somewhere|AK|11111
+Girl|Lady|9991117777|girl@hotmail.com|8|Nice Ave|8|Fort Lauderdale|FL|33301
+Best|Friend|9147303300|bestfriend@aol.com|99|great place|99|Miami|FL|33101
+endofbook|
